@@ -1,0 +1,54 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "skylas unicorn",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [
+
+          ],
+          "samples": [
+            "hello",
+            "say hello",
+            "say hello world"
+          ]
+        },
+        {
+          "name": "MoonPhaseIntent",
+          "slots": [
+
+          ],
+          "samples": [
+            "give the moon phase for the day Skyla was born",
+            "what was the moon like on the night I was born",
+            "moon phase on the night I was born",
+            "give the moon phase for the night Skyla was born",
+            "moon phase on the day I was born"
+          ]
+        }
+      ]
+    }
+  }
+}
