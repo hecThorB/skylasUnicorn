@@ -25,17 +25,6 @@
           ]
         },
         {
-          "name": "HelloWorldIntent",
-          "slots": [
-
-          ],
-          "samples": [
-            "hello",
-            "say hello",
-            "say hello world"
-          ]
-        },
-        {
           "name": "MoonPhaseIntent",
           "slots": [
 
@@ -45,7 +34,8 @@
             "what was the moon like on the night I was born",
             "moon phase on the night I was born",
             "give the moon phase for the night Skyla was born",
-            "moon phase on the day I was born"
+            "moon phase on the day I was born",
+            "moon phase on Skyla's Birthday"
           ]
         }
       ]
